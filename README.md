@@ -1,0 +1,2 @@
+# easyarticles
+EasyArticles Translations
